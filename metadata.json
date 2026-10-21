@@ -1,0 +1,8 @@
+{
+  "name": "CloudSage AI — Cloud Cost Optimization Platform",
+  "description": "AI-powered AWS cloud cost optimization platform with waste detection, predictive forecasting, budget guardrails, and automated savings recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
